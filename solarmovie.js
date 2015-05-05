@@ -1,9 +1,9 @@
  // ==UserScript==
 // @name         My Fancy New Userscript
 // @namespace    http://your.homepage/
-// @version      0.1
-// @description  enter something useful
-// @author       You
+// @version      0.11
+// @description  Script for solarmovie 
+// @author       Abdoulaye Camara
 // @match        http://www.solarmovie.is/link/play/*
 // @grant        none
 // ==/UserScript==
