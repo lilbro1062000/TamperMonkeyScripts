@@ -4,11 +4,12 @@
 // @version      0.11
 // @description  Script for solarmovie 
 // @author       lilbro1062000
-// @match        http://www.solarmovie.is/link/play/*
+// @match        http://cinema.solarmovie.is/link/play/*
 // @grant        none
 // ==/UserScript==
 
-var header =document.getElementById('frameWrapper');
+var header =document.getelementsbyclassname('frameWrapper')[0];
+console.log(header);
 header.style.display='none';
 
 var center = document.getElementsByClassName('thirdPartyEmbContainer')[0];
