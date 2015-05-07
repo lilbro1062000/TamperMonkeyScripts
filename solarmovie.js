@@ -1,7 +1,7 @@
  // ==UserScript==
 // @name         My Fancy New Userscript
 // @namespace    http://your.homepage/
-// @version      0.11
+// @version      0.2
 // @description  Script for solarmovie 
 // @author       lilbro1062000
 // @match        http://cinema.solarmovie.is/link/play/*
